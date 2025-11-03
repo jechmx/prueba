@@ -1,4 +1,5 @@
 print("Bienvenido al Programa de python")
-x=input(int("ingrese el numero"))
+x = input(int("ingrese el numero"))
 print("el resultado es "+x)
 print("fin del programa")
+print("la salida")
